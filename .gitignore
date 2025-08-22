@@ -1,0 +1,12 @@
+launcher/launcher_secure
+scripts/encrypt_payload
+payloads/*
+!payloads/.keep
+examples/app.enc
+examples/aes.key
+logs/*
+!logs/.keep
+*.o
+*.obj
+*.exe
+.DS_Store
